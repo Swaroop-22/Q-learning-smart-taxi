@@ -30,16 +30,4 @@ To run this repository locally, make sure you have Python 3.10+ installed along 
 pip install numpy gym pygame stable-baselines3
 
 
-Training Logs
-The agent's progress over 1,000 training episodes demonstrates quick stabilization and high efficiency:
 
-Episode: 100  | Total reward: 12
-Episode: 200  | Total reward: 10
-Episode: 300  | Total reward: 11
-Episode: 400  | Total reward: 11
-Episode: 500  | Total reward: 8
-Episode: 600  | Total reward: 7
-Episode: 700  | Total reward: 9
-Episode: 800  | Total reward: 8
-Episode: 900  | Total reward: 12
-Episode: 1000 | Total reward: 6
